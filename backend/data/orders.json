@@ -6,7 +6,7 @@
         "name": "Caesar Salad",
         "price": 7.99,
         "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
-        "image": "http://localhost:4000/images/caesar-salad.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/caesar-salad.jpg",
         "quantity": 1
       }
     ],
@@ -26,7 +26,7 @@
         "name": "Margherita Pizza",
         "price": 12.99,
         "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
-        "image": "http://localhost:4000/images/margherita-pizza.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/margherita-pizza.jpg",
         "quantity": 2
       },
       {
@@ -34,7 +34,7 @@
         "name": "Mac & Cheese",
         "price": 8.99,
         "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-        "image": "http://localhost:4000/images/mac-and-cheese.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/mac-and-cheese.jpg",
         "quantity": 2
       },
       {
@@ -42,7 +42,7 @@
         "name": "Sushi Roll Platter",
         "price": 15.99,
         "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
-        "image": "http://localhost:4000/images/sushi-roll-platter.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/sushi-roll-platter.jpg",
         "quantity": 2
       }
     ],
@@ -62,7 +62,7 @@
         "name": "Mac & Cheese",
         "price": 8.99,
         "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-        "image": "http://localhost:4000/images/mac-and-cheese.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/mac-and-cheese.jpg",
         "quantity": 2
       }
     ],
@@ -82,7 +82,7 @@
         "name": "Margherita Pizza",
         "price": 12.99,
         "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
-        "image": "http://localhost:4000/images/margherita-pizza.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/margherita-pizza.jpg",
         "quantity": 1
       }
     ],
@@ -102,7 +102,7 @@
         "name": "Steak Frites",
         "price": 17.99,
         "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
-        "image": "http://localhost:4000/images/steak-frites.jpg",
+        "image": "https://food-order-app-redux.vercel.app/images/steak-frites.jpg",
         "quantity": 1
       }
     ],
